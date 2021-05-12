@@ -1,0 +1,10 @@
+Тип Инфузории - Ciliophora Класс Ресничные Инфузории - Ciliata
+Тип Губки - Porifera, Или Spongia Класс Обыкновенные Губки - Demospongiae
+Тип Щупальцевые - Tentaculata Класс Мшанки - Bryozoa
+Тип Кишечнополостные - Coelenterata Класс Гидроидные - Hydrozoa
+Тип Брюхоресничные Черви, или Гастротрихи - Gastrotricha
+Тип Коловратки - Rotatoria
+Тип Плоские Черви - Plathelminthes Класс Ресничные Черви, или Турбеллярии - Turbellaria Отряд прямокишечные турбеллярии - Rhabdocoela Отряд трехветвистокишечные турбеллярии, или трикладиды - Tricladida
+Тип Круглые Черви - Nemathelmintha Класс Волосатики - Gordiacea
+Тип Кольчатые Черви - Annelida Класс Малощетинковые Черви, или Олигохеты - Oligochaeta Класс Пиявки - Hirudinea Отряд Хоботные Пиявки - Rhynchobdellea Отряд Челюстные Пиявки - Arhynchobdellea (Gnathobdellea)
+Тип Моллюски - Mollusca Класс Брюхоногие - Gastropoda Отряд Лёгочные улитки - Pulmonata Семейство Прудовики - Lymnaeidae Семейство Катушки - Planorbidae Семейство Акролоксиды - Acroloxiidae Семейство Физиды - Physidae Подкласс Переднежаберные улитки - Prosobranchia Семейство Живородки - Viviparidae Семейство Битинии - Bithynidae Семейство Затворки - Valvatidae Класс Двустворчатые - Bivalvia Семейство Униониды - Unionidae Подсемейство Беззубки - Anodontinae Подсемейство Перловицы - Unioninae Семейство Жемчужницевые - Margaritiferidae Семейство Шаровки и Горошинки - Sphaeriidae Подсемейство Шаровки - Sphaeriastrinae Подсемейство Горошинки - Pisidiinae Семейство Дрейссениды - Dreissenidae

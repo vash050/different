@@ -1,0 +1,912 @@
+      rus           |   lat          |      eng
+Белоклювая гагара  |  Gavia adamsii  |  Polar ivory-billed loon
+Чернозобая гагара  |  Gavia arctica  |  Arctic Loon
+Черноклювая гагара  |  Gavia immer  |  
+Белошейная гагара  |  Gavia pacifica  |  
+Краснозобая гагара  |  Gavia stellata  |  Red-throated Loon
+Красношейная поганка  |  Podiceps auritus  |  Horned Grebe
+Большая поганка  |  Podiceps cristatus  |  Great Crested Grebe
+Серощекая поганка  |  Podiceps grisegena  |  Red-necked Grebe
+Черношейная поганка  |  Podiceps nigricollis  |  Black-necked grebe
+Малая поганка  |  Tachybaptus ruficollis  |  Little Grebe
+Белоспинный альбатрос  |  Phoebastria albatrus  |  Short-tailed Albatross
+Темноспинный альбатрос  |  Phoebastria immutabilis  |  
+Черноногий альбатрос  |  Phoebastria nigripes  |  
+Чернобровый альбатрос  |  Thalassarche melanophris  |  Black-browed Albatross
+Средиземноморский буревестник  |  Calonectris diomedea  |  Cory's Shearwater
+Пестролицый буревестник  |  Calonectris leucomelas  |  Streaked Shearwater
+Глупыш  |  Fulmarus glacialis  |  
+Бонинский тайфунник  |  Pterodroma hypoleuca  |  
+Пестрый тайфунник  |  Pterodroma inexpectata  |  Mottled Petrel
+Тайфунник Соландра  |  Pterodroma solandri  |  Providence Petrel
+Буллеров буревестник  |  Puffinus bulleri  |  Buller's Shearwater
+Бледноногий буревестник  |  Puffinus carneipes  |  Flesh-footed Shearwater
+Буревестник большой пестробрюхий  |  Puffinus gravis  |  Great Shearwater
+Серый буревестник  |  Puffinus griseus  |  
+Балеарский буревестник  |  Puffinus mauretanicus  |  Balearic Shearwater
+Малый буревестник  |  Puffinus puffinus  |  
+Тонкоклювый буревестник  |  Puffinus tenuirostris  |  Short-tailed Shearwater
+Левантский буревестник  |  Puffinus yelkouan  |  Yelkouan Shearwater
+Прямохвостая качурка  |  Hydrobates pelagicus  |  
+Мадейрская качурка  |  Oceanodroma castro  |  Band-rumped Storm Petrel
+Сизая качурка  |  Oceanodroma furcata  |  Fork-tailed Storm Petrel
+Северная качурка  |  Oceanodroma leucorhoa  |  
+Малая качурка  |  Oceanodroma monorhis  |  Swinhoe's Storm Petrel
+Фрегат-ариэль  |  Fregata ariel  |  Lesser Frigatebird
+Кудрявый пеликан  |  Pelecanus crispus in–11  |  
+Розовый пеликан  |  Pelecanus onocrotalus range from  |  
+Северная олуша  |  Morus bassanus  |  
+Бурая олуша  |  Sula leucogaster  |  
+Красноногая олуша  |  Sula sula  |  
+Хохлатый баклан  |  Phalacrocorax aristotelis  |  
+Баклан ушастый  |  Phalacrocorax auritus  |  
+Уссурийский баклан  |  Phalacrocorax capillatus  |  
+Большой баклан  |  Phalacrocorax carbo  |  Great Cormorant
+Берингов баклан  |  Phalacrocorax pelagicus  |  
+Стеллеров баклан  |  Phalacrocorax perspicillatus  |  
+Малый баклан  |  Phalacrocorax pygmeus  |  
+Краснолицый баклан  |  Phalacrocorax urile  |  
+Змеешейка чернобрюхая  |  Anhinga melanogaster  |  
+Серая цапля  |  Ardea cinerea  |  Grey Heron
+Рыжая цапля  |  Ardea purpurea  |  
+Белокрылая цапля  |  Ardeola bacchus  |  Chinese Pond-Heron
+Цапля индийская прудовая  |  Ardeola grayii  |  Indian Pond Heron
+Желтая цапля  |  Ardeola ralloides  |  Squacco Heron
+Большая выпь  |  Botaurus stellaris  |  Great Bittern
+Египетская цапля  |  Bubulcus ibis  |  Cattle Egret
+Зеленая кваква  |  Butorides  |  Green-backed Heron
+Цапля восточная белая  |  Casmerodius modestus  |  Eastern Great Egret
+Большая белая цапля  |  Ardea alba  |  Great White Egret
+Желтоклювая цапля  |  Egretta eulophotes  |  Chinese Egret
+Малая белая цапля  |  Egretta garzetta  |  Little Egret
+Средняя белая цапля  |  Egretta intermedia  |  Intermediate Egret
+Японская выпь  |  Gorsachius goisagi  |  Japanese Night-heron
+Охристая выпь  |  Ixobrychus cinnamomeus  |  Cinnamon bittern
+Выпь амурская  |  Ixobrychus eurhythmus  |  Schrenck's Bittern
+Малая выпь  |  Ixobrychus minutus  |  Little Bittern
+Китайская выпь  |  Ixobrychus sinensis  |  Yellow Bittern
+Кваква  |  Nycticorax nycticorax  |  Black-crowned Night-Heron
+Красноногий ибис  |  Nipponia nippon  |  Japanese Crested Ibis
+Колпица  |  Platalea leucorodia  |  Eurasian Spoonbill
+Колпица малая  |  Platalea minor  |  Black-faced Spoonbill
+Каравайка  |  Plegadis falcinellus  |  Glossy Ibis
+Священный ибис  |  Threskiornis aethiopicus  |  Sacred Ibis
+Индийский ибис  |  Threskiornis melanocephalus  |  Black-headed Ibis
+Дальневосточный аист  |  Ciconia boyciana  |  Oriental Stork
+Белый аист  |  Ciconia ciconia  |  White Stork
+Черный аист  |  Ciconia nigra  |  Black Stork
+Обыкновенный фламинго  |  Phoenicopterus roseus  |  Greater Flamingo
+Мандаринка  |  galericulata  |  Mandarin Duck
+Шилохвость  |  Anas acuta  |  Northern Pintail
+Американская свиязь  |  Anas americana  |  American Wigeon
+Мраморный чирок  |  Marmaronetta angustirostris  |  
+Зеленокрылый чирок  |  Anas carolinensis  |  Green-winged Teal
+Широконоска  |  Anas clypeata  |  
+Чирок-свистунок  |  Anas crecca  |  Common Teal
+Чирок голубокрылый  |  Anas discors  |  Blue-winged Teal
+Касатка  |  Anas falcata  |  Falcated Duck
+Клоктун  |  Anas formosa  |  
+Свиязь  |  Anas penelope  |  
+Кряква  |  Anas platyrhynchos  |  Mallard
+Чирок-трескунок  |  Anas querquedula  |  Garganey
+Серая утка  |  Anas strepera  |  Gadwall
+Черная кряква  |  Anas zonorhyncha  |  Spot-billed Duck
+Белолобый гусь  |  Anser albifrons  |  Greater White-fronted Goose
+Серый гусь  |  Anser anser  |  Greylag Goose
+Короткоклювый гуменник  |  Anser brachyrhynchus  |  Pink-footed Goose
+Пискулька  |  Anser erythropus  |  Lesser White-fronted Goose
+Гуменник  |  Anser fabalis  |  Bean Goose
+Американская морская чернеть  |  Aythya affinis  |  Lesser Scaup
+Американская чернеть  |  Aythya americana  |  Redhead
+Чернеть Бэра  |  Aythya baeri  |  Baer's Pochard
+Нырок кольчатый  |  Aythya collaris  |  Ring-necked Duck
+Красноголовый нырок  |  Aythya ferina  |  Common Pochard
+Хохлатая чернеть  |  Aythya fuligula  |  Tufted Duck
+Морская чернеть  |  Aythya marila  |  Greater Scaup
+Белоглазая чернеть  |  Aythya nyroca  |  
+Парусиновый нырок  |  Aythya valisineria  |  Canvasback
+Черная казарка  |  Branta bernicla  |  
+Канадская казарка  |  Branta canadensis  |  Canada Goose
+Малая канадская казарка  |  Branta hutchinsii  |  Hutchin's Goose
+Белощекая казарка  |  Branta leucopsis  |  Barnacle Goose
+Американская казарка  |  Branta nigricans  |  Black Brant
+Малый гоголь  |  Bucephala albeola  |  Bufflehead
+Обыкновенный гоголь  |  Bucephala clangula  |  Goldeneye
+Исландский гоголь  |  Bucephala islandica  |  Barrow's Goldeneye
+Белый гусь  |  Anser caerulescens  |  Snow Goose
+Гусь Росса  |  Anser rossii  |  Ross's Goose
+Морянка  |  Clangula hyemalis  |  
+Сухонос  |  Anser cygnoides  |  
+Малый лебедь  |  Cygnus bewickii  |  
+Лебедь-трубач  |  Cygnus buccinator  |  Trumpeter Swan
+Американский лебедь  |  Cygnus columbianus  |  Whistling Swan
+Лебедь-кликун  |  Cygnus cygnus  |  Whooper swan
+Лебедь-шипун  |  Cygnus olor  |  Mute swan
+Горный гусь  |  Anser indicus  |  
+Каменушка  |  Histrionicus histrionicus  |  Harlequin Duck
+Американская синьга  |  Melanitta americana  |  Black American Scoter
+Горбоносый турпан  |  Melanitta deglandi  |  
+Обыкновенный турпан  |  Melanitta fusca  |  Velvet Scoter
+Синьга  |  Melanitta nigra  |  
+Пестроносый турпан  |  Melanitta perspicillata  |  Surf Scoter
+Луток  |  Mergellus albellus  |  
+Большой крохаль  |  Mergus merganser  |  Common Merganser
+Длинноносый крохаль  |  Mergus serrator  |  Red-breasted Merganser
+Чешуйчатый крохаль  |  Mergus squamatus  |  Chinese Merganser
+Красноносый нырок  |  Netta rufina  |  Red-crested Pochard
+Чирок хлопковый блестящий  |  Nettapus coromandelianus  |  Cotton Pygmy Goose
+Савка  |  Oxyura leucocephala  |  
+Белошей  |  Chen canagica  |  Emperor Goose
+Сибирская гага  |  Polysticta stelleri  |  Steller's Eider
+Краснозобая казарка  |  Branta ruficollis  |  Red-breasted Goose
+Очковая гага  |  Somateria fischeri  |  Spectacled Eider
+Обыкновенная гага  |  Somateria mollissima  |  Common Eider
+Гага-гребенушка  |  Somateria spectabilis  |  King Eider
+Хохлатая пеганка  |  Tadorna cristata  |  Crested Shelduck
+Огарь  |  Tadorna ferruginea  |  Ruddy Shelduck
+Пеганка  |  Tadorna tadorna  |  Common Shelduck
+Скопа  |  Pandion haliaetus  |  Osprey
+Туркестанский тювик  |  Accipiter badius  |  Shikra
+Европейский тювик  |  Accipiter brevipes  |  Levant Sparrowhawk
+Тетеревятник  |  Accipiter gentilis  |  Northern Goshawk
+Малый перепелятник  |  Accipiter virgatus  |  Japanese Sparrowhawk
+Перепелятник  |  Accipiter nisus  |  Eurasian Sparrowhawk
+Короткопалый ястреб  |  Accipiter soloensis  |  Chinese Sparrowhawk
+Черный гриф  |  Aegypius monachus  |  Cinereous Vulture
+Беркут  |  Aquila chrysaetos  |  Golden Eagle
+Большой подорлик  |  Aquila clanga  |  Greater Spotted Eagle
+Могильник  |  Aquila heliaca  |  Imperial Eagle
+Степной орел  |  Aquila rapax  |  Steppe Eagle
+Малый подорлик  |  Aquila pomarina  |  Lesser Spotted Eagle
+Ястребиный сарыч  |  Butastur indicus  |  Grey-faced Buzzard
+Обыкновенный канюк  |  Buteo buteo  |  Common Buzzard
+Мохноногий курганник  |  Buteo hemilasius  |  Upland Buzzard
+Зимняк  |  Buteo lagopus  |  Rough-legged Buzzard
+Курганник  |  Buteo rufinus  |  Long-legged Buzzard
+Змееяд  |  Circaetus gallicus  |  Short-toed Eagle около
+Болотный лунь  |  Circus aeruginosus  |  Marsh harrier
+Полевой лунь  |  Circus cyaneus  |  Northern Harrier
+Степной лунь  |  Circus macrourus  |  Pallid Harrier
+Пегий лунь  |  Circus melanoleucos  |  Pied Harrier
+Луговой лунь  |  Circus pygargus  |  Montagu's Harrier
+Лунь восточный болотный  |  Circus spilonotus  |  Eastern Marsh Harrier
+Коршун дымчатый  |  Elanus caeruleus  |  Black-winged Kite
+Бородач  |  Gypaetus barbatus  |  Bearded Vulture
+Белоголовый  |  Gyps fulvus  |  Griffon Vulture
+Кумай  |  Gyps himalayensis  |  Himalayan Griffon
+Орлан-белохвост  |  Haliaeetus albicilla  |  White-tailed Eagle
+Белоголовый орлан  |  Haliaeetus leucocephalus  |  Bald Eagle
+Орлан-долгохвост  |  Haliaeetus leucoryphus  |  Pallas's Sea-Eagle
+Белоплечий орлан  |  Haliaeetus pelagicus  |  Steller's Sea-eagle
+Орел ястребиный  |  Hieraaetus fasciatus  |  Bonelli's Eagle
+Орел-карлик  |  Hieraaetus pennatus  |  Booted Eagle
+Черный коршун  |  Milvus migrans  |  Black Kite
+Красный коршун  |  Milvus milvus  |  Kite
+Стервятник  |  Neophron percnopterus  |  Egyptian Vulture
+Хохлатый осоед  |  Pernis ptilorhyncus  |  Oriental Honey Buzzard
+Индийский гриф  |  Pseudogyps bengalensis  |  Indian White-rumped Vulture
+Хохлатый орел  |  Spizaetus nipalensis  |  Mountain Hawk-eagle
+Кречет алтайский  |  Falco altaicus  |  Altai Falcon
+Амурский кобчик  |  Falco amurensis  |  Amur Falcon
+Сокол средиземноморский  |  Falco biarmicus  |  Lanner Falcon
+Балобан  |  Falco cherrug  |  Saker Falcon
+Дербник  |  Falco columbarius  |  Merlin
+Сокол Элеоноры  |  Falco eleonorae  |  Eleonora's Falcon
+Лаггар  |  Falco jugger  |  Laggar Falcon
+Степная пустельга  |  Falco naumanni  |  Lesser Kestrel
+Шахин  |  Falco pelegrinoides  |  Barbary Falcon
+Сапсан  |  Falco peregrinus  |  Peregrine Falcon
+Кречет  |  Falco rusticolus  |  Gyrfalcon
+Пустельга американская  |  Falco sparverius  |  American Kestrel
+Чеглок  |  Falco subbuteo  |  Eurasian Hobby
+Обыкновенная пустельга  |  Falco tinnunculus  |  Common Kestrel
+Кобчик  |  Falco vespertinus  |  Red-footed Falcon
+Рябчик  |  Bonasa bonasia  |  Hazel grouse
+Дикуша  |  Dendragapus falcipennis  |  Siberian Grouse
+Белая куропатка  |  Lagopus lagopus  |  Willow Grouse
+Тундряная куропатка  |  Lagopus mutus  |  Rock Ptarmigan
+Кавказский тетерев  |  Lyrurus mlokosiewiczi  |  Caucasian Grouse
+Тетерев  |  Lyrurus tetrix  |  Black Grouse ♀700
+Каменный глухарь  |  Tetrao parvirostris  |  Black-billed Capercaillie
+Глухарь  |  Tetrao urogallus  |  Western Capercaillie
+Кеклик  |  Alectoris  |  Chukar Partridge
+Куропатка пустынная  |  Ammoperdix griseogularis  |  See-see Partridge
+Перепел  |  Coturnix coturnix  |  Common Quail
+Японский перепел  |  Coturnix japonica  |  Japanese quail
+Турач  |  Francolinus francolinus  |  Black Francolin
+Бородатая куропатка  |  Perdix daurica  |  Daurian Partridge
+Серая куропатка  |  Perdix perdix  |  Grey Partridge
+Фазан  |  Phasianus colchicus  |  Common Pheasant
+Алтайский улар  |  Tetraogallus altaicus  |  Altai Snowcock
+Улар каспийский  |  Tetraogallus caspius  |  Caspian Snowcock
+Кавказский улар  |  Tetraogallus caucasicus  |  Caucasian Snowcock
+Улар гималайский  |  Tetraogallus himalayensis  |  Himalayan Snowcock
+Улар тибетский  |  Tetraogallus tibetanus  |  Tibetan Snowcock
+Красавка  |  Anthropoides virgo  |  Demoiselle Crane
+Канадский журавль  |  Grus canadensis  |  Sandhill Crane
+Серый журавль  |  Grus grus  |  Common Crane
+Японский журавль  |  Grus japonensis  |  Red-crowned Crane
+Стерх  |  Grus leucogeranus  |  Siberian Crane
+Черный журавль  |  Grus monacha  |  Hooded Crane
+Даурский журавль  |  Grus vipio  |  White-naped Crane
+Белогрудый погоныш  |  Amaurornis phoenicurus  |  White-breasted Waterhen
+Коростель  |  Crex crex  |  Corn Crake
+Лысуха  |  Fulica atra  |  Coot
+Рогатая камышница  |  Gallicrex cinerea  |  Watercock
+Камышница  |  Gallinula chloropus  |  Common Moorhen
+Султанка  |  Porphyrio porphyrio  |  Purple Swamphen
+Каролинский погоныш  |  Porzana carolina  |  Sora Rail
+Белокрылый погоныш  |  Coturnicops exquisitus  |  White-winged Quail Crake
+Красноногий погоныш  |  Porzana fusca  |  Ruddy-breasted Crake
+Малый погоныш  |  Porzana parva  |  Little Crake
+Большой погоныш  |  Porzana paykullii  |  Band-bellied Crake
+Погоныш  |  Porzana porzana  |  Spotted Crake
+Погоныш-крошка  |  Porzana pusilla  |  Baillon's Crake
+Водяной пастушок  |  Rallus aquaticus  |  Water Rail
+Пастушок восточный  |  Rallus indicus  |  Brown-cheeked Rail
+Дрофа-красотка  |  Chlamydotis macqueenii  |  Houbara Bustard
+Дрофа  |  Otis tarda  |  Great Bustard
+Стрепет  |  Tetrax tetrax  |  Little Bustard
+Трехперстка  |  Turnix tanki  |  Yellow-legged Buttonquail
+Водяной фазанчик  |  Hydrophasianus chirurgus  |  Water Pheasant
+Авдотка  |  Burhinus oedicnemus  |  Stone Curlew
+Цветной бекас  |  Rostratula benghalensis  |  Greater Painted-snipe
+Камнешарка  |  Arenaria interpres  |  Ruddy Turnstone
+Черная камнешарка  |  Arenaria melanocephala  |  Black Turnstone
+Морской зуек  |  Charadrius alexandrinus  |  Kentish Plover
+Каспийский зуек  |  Charadrius asiaticus  |  Caspian Plover
+Малый зуек  |  Charadrius dubius  |  Little Ringed Plover
+Галстучник  |  Charadrius hiaticula  |  Ringed Plover
+Толстоклювый зуек  |  Charadrius leschenaultii  |  Greater Sand Plover
+Монгольский зуек  |  Charadrius mongolus  |  Mongolian Plover
+Уссурийский зуек  |  Charadrius placidus  |  Long-billed Plover
+Перепончатопалый галстучник  |  Charadrius semipalmatus  |  Semipalmated Plover
+Восточный зуек  |  Charadrius veredus  |  Oriental Plover
+Крикливый зуёк  |  Charadrius vociferus  |  Killdeer
+Кречетка  |  Vanellus gregarius  |  Sociable Plover
+Хрустан  |  Charadrius morinellus  |  Eurasian Dotterel
+Чибис шпорцевый  |  Hoplopterus spinosus  |  Spur-winged Lapwing
+Чибис украшенный  |  Lobivanellus indicus  |  Red-wattled Lapwing
+Серый чибис  |  Vanellus cinereus  |  Grey-headed Lapwing
+Золотистая ржанка  |  Pluvialis apricaria  |  Golden Plover
+Американская бурокрылая ржанка  |  Pluvialis dominica  |  American Golden-Plover
+Азиатская бурокрылая ржанка  |  Pluvialis fulva  |  Pacific Golden-Plover
+Тулес  |  Pluvialis squatarola  |  Grey Plover
+Белохвостая пигалица  |  Vanellochettusia leucura  |  White-tailed Lapwing
+Чибис  |  Vanellus vanellus  |  Northern Lapwing
+Ходулочник  |  Himantopus himantopus  |  Black-winged Stilt
+Шилоклювка  |  Recurvirostra avosetta  |  Avocet
+Черный кулик-сорока  |  Haematopus bachmani  |  Black Oystercatcher
+Кулик-сорока  |  Haematopus ostralegus  |  Oystercatcher
+Серпоклюв  |  Ibidorhyncha struthersii  |  Ibisbill
+Перевозчик  |  Actitis hypoleucos  |  Common Sandpiper
+Пятнистый перевозчик  |  Actitis macularius  |  Spotted Sandpiper
+Острохвостый песочник  |  Calidris acuminata  |  Sharp-tailed Sandpiper
+Песчанка  |  Calidris alba  |  Sanderling
+Чернозобик  |  Calidris alpina  |  Dunlin
+Бэрдов песочник  |  Calidris bairdii  |  Baird's Sandpiper
+Исландский песочник  |  Calidris canutus  |  Knot
+Краснозобик  |  Calidris ferruginea  |  Curlew Sandpiper
+Бонапартов песочник  |  Calidris fuscicollis  |  White-rumped Sandpiper
+Морской песочник  |  Calidris maritima  |  Purple Sandpiper
+Перепончатопалый песочник  |  Calidris mauri  |  Western Sandpiper
+Дутыш  |  Calidris melanotos  |  Pectoral Sandpiper
+Кулик-воробей  |  Calidris minuta  |  Little Stint
+Песочник-крошка  |  Calidris minutilla  |  Least Sandpiper
+Берингийский песочник  |  Calidris ptilocnemis  |  Rock Sandpiper
+Малый песочник  |  Calidris pusilla  |  Semipalmated Sandpiper
+Песочник-красношейка  |  Calidris ruficollis  |  Red-necked Stint
+Длиннопалый песочник  |  Calidris subminuta  |  Long-toed Stint
+Белохвостый песочник  |  Calidris temminckii  |  Temminck's Stint
+Большой песочник  |  Calidris tenuirostris  |  Great Knot
+Лопатень  |  Eurynorhynchus pygmeus  |  Spoon-billed Sandpiper
+Бекас американский  |  Gallinago delicata  |  Wilson's Snipe
+Бекас  |  Gallinago gallinago  |  Common Snipe
+Японский бекас  |  Gallinago hardwickii  |  Latham's Snipe
+Дупель  |  Gallinago media  |  Great Snipe
+Лесной дупель  |  Gallinago megala  |  Swinhoe`s Snipe
+Горный дупель  |  Gallinago solitaria  |  Solitary Snipe
+Азиатский бекас  |  Gallinago stenura  |  Pintail Snipe
+Сибирский пепельный улит  |  Heteroscelus brevipes  |  Grey-rumped Sandpiper
+Американский пепельный улит  |  Heteroscelus incanus  |  Wandering Tattler
+Грязовик  |  Limicola falcinellus  |  Broad-billed Sandpiper
+Американский бекасовидный веретенник  |  Limnodromus scolopaceus  |  Long-billed Dowitcher
+Азиатский бекасовидный веретенник  |  Limnodromus semipalmatus  |  Asian Dowitcher
+Малый веретенник  |  Limosa lapponica  |  Bar-tailed Godwit
+Большой веретенник  |  Limosa limosa  |  Black-tailed Godwit
+Гаршнеп  |  Lymnocryptes minimus  |  Jack Snipe
+Песочник длинноногий  |  Micropalama himantopus  |  Stilt Sandpiper
+Большой кроншнеп  |  Numenius arquata  |  Curlew
+Эскимосский кроншнеп  |  Numenius borealis  |  Eskimo Curlew
+Дальневосточный кроншнеп  |  Numenius madagascariensis  |  Eastern Curlew
+Кроншнеп-малютка  |  Numenius minutus  |  Little Curlew
+Средний кроншнеп  |  Numenius phaeopus  |  Whimbrel
+Таитянский кроншнеп  |  Numenius tahitiensis  |  Bristle-thighed Curlew
+Тонкоклювый кроншнеп  |  Numenius tenuirostris  |  Slender-billed Curlew
+Плосконосый плавунчик  |  Phalaropus fulicaria  |  Grey Phalarope
+Круглоносый плавунчик  |  Phalaropus lobatus  |  Red-necked Phalarope
+Американский плавунчик  |  Phalaropus tricolor  |  Wilson's Phalarope
+Турухтан  |  Philomachus pugnax  |  Ruff
+Вальдшнеп  |  Scolopax rusticola  |  Eurasian Woodcock
+Щеголь  |  Tringa erythropus  |  Spotted Redshank
+Желтоногий улит  |  Tringa flavipes  |  Lesser Yellowlegs
+Фифи  |  Tringa glareola  |  Wood Sandpiper
+Охотский улит  |  Tringa guttifer  |  Spotted Greenshank
+Пёстрый улит  |  Tringa melanoleuca  |  Greater Yellowlegs
+Большой улит  |  Tringa nebularia  |  Greenshank
+Черныш  |  Tringa ochropus  |  Green Sandpiper
+Поручейник  |  Tringa stagnatilis  |  Marsh Sandpiper
+Травник  |  Tringa totanus  |  Redshank
+Желтозобик  |  Tryngites subruficollis  |  Buff-breasted Sandpiper
+Мородунка  |  Xenus cinereus  |  Terek Sandpiper
+Бегунок  |  Cursorius cursor  |  Cream-coloured Courser
+Восточная тиркушка  |  Glareola maldivarum  |  Oriental Pratincole
+Степная тиркушка  |  Glareola nordmanni  |  Black-winged Pratincole
+Луговая тиркушка  |  Glareola pratincola  |  Collared Pratincole
+Длиннохвостый поморник  |  Stercorarius longicaudus  |  Long-tailed Skua
+Поморник южнополярный  |  Stercorarius maccormicki  |  South Polar Skua
+Короткохвостый поморник  |  Stercorarius parasiticus  |  Arctic Skua Parasitic Skua
+Средний поморник  |  Stercorarius pomarinus  |  Pomarine Skua
+Большой поморник  |  Catharacta skua  |  Great Skua
+Белощекая крачка  |  Chlidonias hybridus  |  Whiskered Tern
+Белокрылая крачка  |  Chlidonias leucopterus  |  White-winged Tern
+Черная крачка  |  Chlidonias niger  |  Black Tern
+Чайконосая крачка  |  Gelochelidon nilotica  |  Gull-billed Tern
+Чеграва  |  Hydroprogne caspia  |  Caspian Tern
+Серебристая чайка  |  Larus argentatus  |  European Herring Gull
+Чайка армянская  |  Larus armenicus  |  Armenian Gull
+Чайка ацтекская  |  Larus atricilla  |  Laughing Gull
+Чайка Одуэнова  |  Larus audouinii  |  Audouin's Gull
+Буроголовая чайка  |  Larus brunnicephalus  |  Brown-headed Gull
+Хохотунья  |  Larus cachinnans  |  Caspian Gull
+Сизая чайка  |  Larus canus  |  Common Gull
+Чернохвостая чайка  |  Larus crassirostris  |  Black-tailed Gull
+Клуша  |  Larus fuscus  |  Lesser Black-backed Gull
+Морской голубок  |  Larus genei  |  Slender-billed Gull
+Серокрылая чайка  |  Larus glaucescens  |  Glaucous-winged Gull
+Полярная чайка  |  Larus glaucoides  |  Iceland Gull
+Восточная клуша  |  Larus heuglini  |  Heuglin's Gull
+Бургомистр  |  Larus hyperboreus  |  Glaucous Gull
+Черноголовый хохотун  |  Larus ichthyaetus  |  Pallas's Gull
+Морская чайка  |  Larus marinus  |  Great Black-backed Gull
+Черноголовая чайка  |  Larus melanocephalus  |  Mediterranean Gull
+Чайка средиземноморская  |  Larus michahellis  |  Yellow-legged Gull
+Малая чайка  |  Larus minutus  |  Little Gull
+Чайка монгольская  |  Larus mongolicus  |  Vega Gull
+Чайка бонапартова  |  Larus philadelphia  |  Bonaparte's Gull
+Франклинова чайка  |  Larus pipixcan  |  Franklin's Gull
+Реликтовая чайка  |  Larus relictus  |  Relict Gull
+Озерная чайка  |  Larus ridibundus  |  Black-headed Gull
+Китайская чайка  |  Larus saundersi  |  Saunders's Gull
+Тихоокеанская чайка  |  Larus schistisagus  |  Slaty-backed Gull
+Чайка Тэйера  |  Larus thayeri  |  Thayer's Gull
+Чайка восточносибирская  |  Larus vegae  |  Vega Gull
+Белая чайка  |  Pagophila eburnea  |  Ivory Gull
+Розовая чайка  |  Rhodostethia rosea  |  Ross's Gull
+Красноногая говорушка  |  Rissa brevirostris  |  Red-legged Kittiwake
+Моевка  |  Rissa tridactyla  |  Black-legged Kittiwake
+Малая крачка  |  Sterna albifrons  |  Little Tern
+Крачка алеутская  |  Sterna camtschatica  |  
+Речная крачка  |  Sterna hirundo  |  Common Tern
+Полярная крачка  |  Sterna paradisaea  |  Arctic Tern
+Пестроносая крачка  |  Thalasseus sandvicensis  |  Sandwich Tern
+Вилохвостая чайка  |  Xema sabini  |  Sabine's Gull
+Большая конюга  |  Aethia cristatella  |  Crested Auklet
+Конюга-крошка  |  Aethia pusilla  |  Least Auklet
+Малая конюга  |  Aethia pygmaea  |  Whiskered Auklet
+Гагарка  |  Alca torda  |  Razorbill
+Люрик  |  Alle alle  |  Little
+Короткоклювый пыжик  |  Brachyramphus brevirostris  |  Kittlitz's Murrelet
+Длинноклювый пыжик  |  Brachyramphus marmoratus  |  Marbled Murrelet
+Пыжик пестрый  |  Brachyramphus perdix  |  Long-billed Murrelet
+Очковый чистик  |  Cepphus carbo  |  Spectacled Guillemot
+Тихоокеанский чистик  |  Cepphus columba  |  Pigeon Guillemot
+Чистик  |  Cepphus grylle  |  Black Guillemot
+Тупик-носорог  |  Cerorhinca monocerata  |  Rhinoceros Auklet
+Белобрюшка  |  Cyclorrhynchus psittacula  |  Parakeet Auklet
+Тупик  |  Fratercula arctica  |  Atlantic Puffin
+Ипатка  |  Fratercula corniculata  |  Horned Puffin
+Топорик  |  Fratercula cirrhata  |  Tufted Puffin
+Алеутский пыжик  |  Ptychoramphus aleuticus  |  Cassin's Auklet
+Старик  |  Synthliboramphus antiquus  |  Ancient Murrelet
+Хохлатый старик  |  Synthliboramphus wumizusume  |  Japanese Murrelet
+Тонкоклювая кайра  |  Uria aalge  |  Common Murre
+Толстоклювая кайра  |  Uria lomvia  |  Thick-billed Murre
+Белобрюхий рябок  |  Pterocles alchata  |  Pin-tailed Sandgrouse
+Чернобрюхий рябок  |  Pterocles orientalis  |  Black-bellied Sandgrouse
+Саджа  |  Syrrhaptes paradoxus  |  Pallas's Sandgrouse
+Саджа тибетская  |  Syrrhaptes tibetanus  |  Tibetan Sandgrouse
+Бурый голубь  |  Columba eversmanni  |  Yellow-eyed Pigeon
+Вяхирь японский  |  Columba janthina  |  Japanese Wood Pigeon
+Голубь белогрудый  |  Columba leuconota  |  Snow Pigeon
+Сизый голубь  |  Columba livia  |  Rock Dove
+Клинтух  |  Columba oenas  |  Stock Dove
+Вяхирь  |  Columba palumbus  |  Common Wood Pigeon
+Скалистый голубь  |  Columba rupestris  |  Hill Pigeon
+Кольчатая горлица  |  Streptopelia decaocto  |  Eurasian Collared Dove
+Большая горлица  |  Streptopelia orientalis  |  Oriental Turtle Dove
+Малая горлица  |  Streptopelia senegalensis  |  Laughing Dove
+Короткохвостая горлица  |  Streptopelia tranquebarica  |  Turtle Dove
+Обыкновенная горлица  |  Streptopelia turtur  |  Turtle Dove
+Японский зеленый голубь  |  Treron sieboldii  |  White-bellied Green Pigeon
+Попугай Крамера  |  Psittacula krameri  |  Rose-ringed Parakeet
+Кукушка хохлатая каштановокрылая  |  Clamator coromandus  |  Chestnut-winged Cuckoo
+Кукушка хохлатая  |  Clamator glandarius  |  Great Spotted Cuckoo
+Обыкновенная кукушка  |  Cuculus canorus  |  Common Cuckoo
+Индийская кукушка  |  Cuculus micropterus  |  Indian Cuckoo
+Малая кукушка  |  Cuculus poliocephalus  |  Lesser Cuckoo
+Глухая кукушка  |  Cuculus saturatus  |  Himalayan Cuckoo
+Ширококрылая кукушка  |  Hierococcyx fugax  |  Hodgson's Hawk-Cuckoo
+Мохноногий  |  Aegolius funereus  |  Boreal
+Болотная сова  |  Asio flammeus  |  Short-eared
+Ушастая сова  |  Asio otus  |  Long-eared
+Домовый  |  Athene noctua  |  Little
+Филин  |  Bubo bubo  |  Eurasian Eagle-Owl
+Воробьиный  |  Glaucidium passerinum  |  Eurasian Pygmy-owl
+Рыбный филин  |  Ketupa blakistoni  |  Blakiston's Fish
+Иглоногая сова  |  Ninox scutulata  |  Brown Hawk-Owl
+Белая сова  |  Nyctea scandiaca  |  Snowy
+Ошейниковая совка  |  Otus bakkamoena  |  Indian Scops
+Совка буланая  |  Otus brucei  |  Pallid Scops
+Сплюшка  |  Otus scops  |  Eurasian Scops
+Восточная совка  |  Otus sunia  |  Oriental Scops
+Серая неясыть  |  Strix aluco  |  Tawny
+Бородатая неясыть  |  Strix nebulosa  |  Great Grey
+Длиннохвостая неясыть  |  Strix uralensis  |  Ural
+Ястребиная сова  |  Surnia ulula  |  Northern Hawk-Owl
+Сипуха  |  Tyto alba  |  Barn
+Козодой буланый  |  Caprimulgus aegyptius  |  Egyptian Nightjar
+Обыкновенный козодой  |  Caprimulgus europaeus  |  European Nightjar
+Большой козодой  |  Caprimulgus indicus  |  Jungle Nightjar
+Стриж малый  |  Apus affinis  |  Little Swift
+Черный стриж  |  Apus apus  |  Common Swift
+Белобрюхий стриж  |  Apus melba  |  Alpine Swift
+Белопоясный стриж  |  Apus pacificus  |  Pacific Swift
+Иглохвостый стриж  |  Hirundapus caudacutus  |  White-throated Needletail
+Охристый колибри  |  Selasphorus rufus  |  Rufous Hummingbird
+Сизоворонка  |  Coracias garrulus  |  European Roller
+Широкорот  |  Eurystomus orientalis  |  Dollarbird
+Обыкновенный зимородок  |  Alcedo atthis  |  Common Kingfisher
+Большой пегий зимородок  |  Ceryle lugubris  |  Crested Kingfisher
+Малый пегий зимородок  |  Ceryle rudis  |  Pied Kingfisher
+Рыжий зимородок  |  Halcyon coromanda  |  Ruddy Kingfisher
+Ошейниковый зимородок  |  Halcyon pileata  |  Black-capped Kingfisher
+Красноносый зимородок  |  Halcyon smyrnensis  |  White-throated Kingfisher
+Золотистая щурка  |  Merops apiaster  |  European Bee-eater
+Зеленая щурка  |  Merops superciliosus  |  Olive Bee-eater
+Удод  |  Upupa epops  |  Hoopoe
+Большой острокрылый дятел  |  Dendrocopos canicapillus  |  Grey-capped Pygmy Woodpecker
+Рыжебрюхий дятел  |  Dendrocopos hyperythrus  |  Rufous-bellied Woodpecker
+Карликовый дятел  |  Dendrocopos kizuki  |  Japanese Pygmy Woodpecker
+Белокрылый дятел  |  Dendrocopos leucopterus  |  White-winged Woodpecker
+Белоспинный дятел  |  Dendrocopos leucotos  |  White-backed Woodpecker
+Большой пестрый дятел  |  Dendrocopos major  |  Great Spotted Woodpecker
+Средний пестрый дятел  |  Dendrocopos medius  |  Middle Spotted Woodpecker
+Малый пёстрый дятел  |  Dendrocopos minor  |  Lesser Spotted Woodpecker
+Сирийский дятел  |  Dendrocopos syriacus  |  Syrian Woodpecker
+Желна  |  Dryocopus martius  |  Black Woodpecker
+Вертишейка  |  Jynx torquilla  |  Eurasian Wryneck
+Трехпалый дятел  |  Picoides tridactylus  |  Eurasian Three-toed Woodpecker
+Седой дятел  |  Picus canus  |  Grey-headed Woodpecker
+Дятел чешуйчатый  |  Picus squamatus  |  Scaly-bellied Woodpecker
+Зеленый дятел  |  Picus viridis  |  European Green Woodpecker
+Рыжепоясничная ласточка  |  Cecropis daurica  |  Red-rumped Swallow
+Восточный воронок  |  Delichon dasypus  |  Asian House Martin
+Городская ласточка  |  Delichon urbica  |  Common House Martin
+Деревенская ласточка  |  Hirundo rustica  |  Barn Swallow
+Нитехвостая ласточка  |  Hirundo smithii  |  Wire-tailed Swallow
+Белолобая ласточка  |  Petrochelidon pyrrhonota  |  American Cliff Swallow
+Большая ласточка  |  Progne subis  |  Purple Martin
+Скальная ласточка  |  Ptyonoprogne rupestris  |  Eurasian Crag Martin
+Береговушка малая  |  Riparia chinensis  |  Grey-throated Martin
+Бледная береговушка  |  Riparia diluta  |  Pale Sand Martin
+Береговая ласточка  |  Riparia riparia  |  Sand Martin
+Речная ласточка  |  Tachycineta bicolor  |  Tree Swallow
+Полевой жаворонок  |  Alauda arvensis  |  Eurasian Skylark
+Жаворонок индийский  |  Alauda gulgula  |  Oriental Skylark
+Японский жаворонок  |  Alauda japonica  |  Japanese Skylark
+Жаворонок пустынный  |  Ammomanes deserti  |  Desert Lark
+Жаворонок тонкоклювый  |  Calandrella acutirostris  |  Hume's Short-toed Lark
+Солончаковый жаворонок  |  Calandrella cheleensis  |  Asian Short-toed Lark
+Малый жаворонок  |  Calandrella cinerea  |  Red-capped Lark
+Серый жаворонок  |  Calandrella rufescens  |  Lesser Short-toed Lark
+Рогатый жаворонок  |  Eremophila alpestris  |  Horned Lark
+Хохлатый жаворонок  |  Galerida cristata  |  Crested Lark
+Лесной жаворонок  |  Lullula arborea  |  Woodlark
+Двупятнистый жаворонок  |  Melanocorypha bimaculata  |  Bimaculated Lark
+Степной жаворонок  |  Melanocorypha calandra  |  Calandra Lark
+Белокрылый жаворонок  |  Melanocorypha leucoptera  |  White-winged Lark
+Монгольский жаворонок  |  Melanocorypha mongolica  |  Mongolian Lark
+Черный жаворонок  |  Melanocorypha yeltoniensis  |  Black Lark
+Полевой конек  |  Anthus campestris  |  Tawny Pipit
+Краснозобый конек  |  Anthus cervinus  |  Red-throated Pipit
+Забайкальский конек  |  Anthus godlewskii  |  Blyth's Pipit
+Сибирский конек  |  Anthus gustavi  |  Pechora Pipit
+Пятнистый конек  |  Anthus hodgsoni  |  Olive-backed Pipit
+Конек Мензбира  |  Anthus menzbieri  |  Menzbier's pipit
+Конек скальный  |  Anthus petrosus  |  Eurasian Rock Pipit
+Луговой конек  |  Anthus pratensis  |  Meadow Pipit
+Степной конек  |  Anthus richardi  |  Richard's Pipit
+Розовый конек  |  Anthus roseatus  |  Rosy Pipit
+Американский конек  |  Anthus rubescens  |  Buff-bellied Pipit
+Горный конек  |  Anthus spinoletta  |  Water Pipit
+Лесной конек  |  Anthus trivialis  |  Tree Pipit
+Древесная трясогузка  |  Dendronanthus indicus  |  Forest Wagtail
+Белая трясогузка  |  Motacilla alba  |  White Wagtail
+Желтоголовая черноспинная трясогузка  |  Motacilla citreola calcarata  |  Citrine wagtail yellow-headed wagtail
+Горная трясогузка  |  Motacilla cinerea  |  Grey Wagtail
+Желтоголовая трясогузка  |  Motacilla citreola  |  Citrine Wagtail
+Черноголовая трясогузка  |  Motacilla flava  |  
+Желтая трясогузка  |  Motacilla flava  |  Western Yellow Wagtail
+Японская трясогузка  |  Motacilla grandis  |  Japanese Wagtail
+Камчатская трясогузка  |  Motacilla lugens  |  Black-backed Wagtail
+Желтолобая трясогузка  |  Motacilla lutea  |  Yellow-headed Wagtail
+Китайская желтая трясогузка  |  Motacilla macronyx  |  Chinese Yellow Wagtail
+Маскированная трясогузка  |  Motacilla personata  |  Masked Wagtail
+Зеленоголовая трясогузка  |  Motacilla taivana  |  Green-headed Wagtail
+Берингийская желтая трясогузка  |  Motacilla tschutschensis  |  Eastern Yellow Wagtail
+Малая желтоголовая трясогузка  |  Motacilla werae  |  Lesser Citrine Wagtail
+Японский сорокопут  |  Lanius bucephalus  |  Bull-headed Shrike
+Обыкновенный жулан  |  Lanius collurio  |  Red-backed Shrike
+Сибирский жулан  |  Lanius cristatus  |  Brown Shrike
+Серый сорокопут  |  Lanius excubitor  |  Great Grey Shrike
+Сорокопут пустынный  |  Lanius meridionalis  |  Southern Grey Shrike
+Чернолобый сорокопут  |  Lanius minor  |  Lesser Grey Shrike
+Сорокопут маскированный  |  Lanius nubicus  |  Masked Shrike
+Жулан туркестанский  |  Lanius phoenicuroides  |  Red-tailed Shrike
+Сорокопут длиннохвостый  |  Lanius schach  |  Long-tailed Shrike
+Красноголовый сорокопут  |  Lanius senator  |  Woodchat Shrike
+Клинохвостый сорокопут  |  Lanius sphenocercus  |  Chinese Grey Shrike
+Тигровый сорокопут  |  Lanius tigrinus  |  Tiger Shrike
+Рыжехвостый жулан  |  Lanius isabellinus  |  
+Черноголовая иволга  |  Oriolus chinensis  |  Black-naped Oriole
+Обыкновенная иволга  |  Oriolus oriolus  |  Eurasian Golden Oriole
+Обыкновенная майна  |  Acridotheres tristis  |  Common Myna
+Японский скворец  |  Sturnia philippensis  |  Chestnut-cheeked Starling
+Китайский скворец  |  Sturnus sinensis  |  White-shouldered Starling
+Малый скворец  |  Sturnus sturninus  |  Daurian Starling
+Серый скворец  |  Sturnus cineraceus  |  White-cheeked Starling
+Скворец браминский  |  Sturnus pagodarum  |  Brahminy Starling
+Розовый скворец  |  Sturnus roseus  |  Rosy Starling
+Скворец красноклювый  |  Sturnus sericeus  |  Red-billed Starling
+Скворец обыкновенный  |  Sturnus vulgaris  |  Common Starling
+Ворон  |  Corvus corax  |  Common Raven
+Серая ворона  |  Corvus cornix  |  Hooded Crow
+Черная ворона  |  Corvus corone  |  Carrion Crow
+Даурская галка  |  Corvus dauuricus  |  Daurian Jackdaw
+Грач  |  Corvus frugilegus  |  Rook
+Большеклювая ворона  |  Corvus macrorhynchos  |  Jungle Crow
+Галка  |  Corvus monedula  |  Western Jackdaw
+Черная восточная ворона  |  Corvus orientalis  |  
+Ворон пустынный  |  Corvus ruficollis  |  Brown-necked Raven
+Голубая сорока  |  Cyanopica cyanus  |  Azure-winged Magpie
+Сойка  |  Garrulus glandarius  |  Eurasian
+Кедровка  |  Nucifraga caryocatactes  |  Spotted Nutcracker
+Кукша  |  Perisoreus infaustus  |  Siberian
+Сорока  |  Pica pica  |  Eurasian Magpie
+Монгольская сойка  |  Podoces panderi  |  Henderson's Ground
+Сойка саксаульная  |  Podoces panderi  |  Pander's Ground
+Альпийская галка  |  Pyrrhocorax graculus  |  Alpine Chough
+Клушица  |  Pyrrhocorax pyrrhocorax  |  Red-billed Chough
+Свиристель  |  Bombycilla garrulus  |  Bohemian Waxwing
+Амурский свиристель  |  Bombycilla japonica  |  Japanese Waxwing
+Сорокопут свиристелевый  |  Hypocolius ampelinus  |  Grey Hypocolius
+Личинкоед  |  Pericrocotus divaricatus  |  Ashy Minivet
+Черный бюль-бюль  |  Hypsipetes leucocephalus  |  Black Bulbul
+Короткопалый бюльбюль  |  Microscelis amaurotis  |  Brown-eared Bulbul
+Бюль-бюль белощекий  |  Pycnonotus leucogenys  |  Himalayan Bulbul
+Бюль-бюль китайский  |  Pycnonotus sinensis  |  Light-vented Bulbul
+Оляпка  |  Cinclus cinclus  |  White-throated Dipper
+Бурая оляпка  |  Cinclus pallasii  |  Brown Dipper
+Крапивник  |  Troglodytes troglodytes  |  Eurasian Wren
+Черногорлая завирушка  |  Prunella atrogularis  |  Black-throated Accentor
+Альпийская завирушка  |  Prunella collaris  |  Alpine Accentor
+Бледная завирушка  |  Prunella fulvescens  |  Brown Accentor
+Гималайская завирушка  |  Prunella himalayana  |  Altai Accentor
+Завирушка Козлова  |  Prunella koslowi  |  Kozlov's Accentor
+Лесная завирушка  |  Prunella modularis  |  Dunnock
+Сибирская завирушка  |  Prunella montanella  |  Siberian Accentor
+Завирушка пестрая  |  Prunella ocularis  |  Radde's Accentor
+Японская завирушка  |  Prunella rubida  |  Japanese Accentor
+Индийская камышевка  |  Acrocephalus agricola  |  Paddyfield Warbler
+Дроздовидная камышевка  |  Acrocephalus arundinaceus  |  Great Reed Warbler
+Чернобровая камышевка  |  Acrocephalus bistrigiceps  |  Black-browed Reed Warbler
+Садовая камышевка  |  Acrocephalus dumetorum  |  Blyth's Reed Warbler
+Тонкоклювая камышевка  |  Acrocephalus melanopogon  |  Moustached Warbler
+Камышевка дроздовидная восточная  |  Acrocephalus orientalis  |  Oriental Reed Warbler
+Камышевка большеклювая  |  Acrocephalus orinus  |  Large-billed Reed-warbler
+Вертлявая камышевка  |  Acrocephalus paludicola  |  Aquatic Warbler
+Болотная камышевка  |  Acrocephalus palustris  |  Marsh Warbler
+Камышевка-барсучок  |  Acrocephalus schoenobaenus  |  Sedge Warbler
+Тростниковая камышевка  |  Acrocephalus scirpaceus  |  Eurasian Reed Warbler
+Камышевка просяная  |  Acrocephalus sorghophilus  |  Streaked Reed-warbler
+Камышевка дроздовидная южная  |  Acrocephalus stentoreus  |  Clamorous Reed Warbler
+Маньчжурская камышевка  |  Acrocephalus tangorum  |  Manchurian Reed Warbler
+Широкохвостая камышевка  |  Cettia cetti  |  Cetti's Warbler
+Цистикола золотистая  |  Cisticola juncidis  |  Zitting Cisticola
+Зеленая пересмешка  |  Hippolais icterina  |  Icterine Warbler
+Пустынная пересмешка  |  Hippolais languida  |  Upcher's Warbler
+Пересмешка средиземноморская  |  Hippolais olivetorum  |  Olive-tree Warbler
+Короткокрылая камышевка  |  Horeites diphone  |  Japanese Bush Warbler
+Северная бормотушка  |  Iduna caligata  |  Booted Warbler
+Бледная пересмешка  |  Hippolais pallida  |  Eastern Olivaceous Warbler
+Южная бормотушка  |  Hippolais rama  |  Sykes's Warbler
+Сахалинский сверчок  |  Locustella amnicola  |  Sakhalin Grasshopper Warbler
+Певчий сверчок  |  Locustella certhiola  |  Pallas's Grasshopper Warbler
+Таежный сверчок  |  Locustella fasciolata  |  Gray's Grasshopper Warbler
+Речной сверчок  |  Locustella fluviatilis  |  River Warbler
+Пятнистый сверчок  |  Locustella lanceolata  |  Lanceolated Warbler
+Соловьиный сверчок  |  Locustella luscinioides  |  Savi's Warbler
+Обыкновенный сверчок  |  Locustella naevia  |  Common Grasshopper Warbler
+Охотский сверчок  |  Locustella ochotensis  |  Middendorff's Grasshopper Warbler
+Островной сверчок  |  Locustella pleskei  |  Styan's Grasshopper Warbler
+Японская камышевка  |  Locustella pryeri  |  Marsh Grassbird
+Толстоклювая камышевка  |  Phragmaticola aeedon  |  
+Светлобрюхая пеночка  |  Phylloscopus bonelli  |  Western Bonelli's Warbler
+Пеночка-таловка  |  Phylloscopus borealis  |  Arctic Warbler
+Пеночка сахалинская  |  Phylloscopus borealoides  |  Sakhalin Leaf Warbler
+Пеночка-теньковка  |  Phylloscopus collybita  |  Common Chiffchaff
+Светлоголовая пеночка  |  Phylloscopus coronatus  |  Eastern Crowned Warbler
+Бурая пеночка  |  Phylloscopus fuscatus  |  Dusky Warbler
+Индийская пеночка  |  Phylloscopus griseolus  |  Sulphur-bellied Warbler
+Пеночка тусклая  |  Phylloscopus humei  |  Hume's Leaf Warbler
+Пеночка-зарничка  |  Phylloscopus inornatus  |  Yellow-browed Warbler
+Кавказская пеночка  |  Phylloscopus lorenzii  |  Common Chiffchaff
+Пеночка иранская  |  Phylloscopus neglectus  |  Plain Leaf Warbler
+Желтобрюхая пеночка  |  Phylloscopus nitidus  |  Green Warbler
+Зеленокрылая пеночка  |  Phylloscopus occipitalis  |  Western Crowned Warbler
+Белобрюхая пеночка  |  Phylloscopus orientalis  |  Eastern Bonelli's Warbler
+Корольковая пеночка  |  Phylloscopus proregulus  |  Pallas's Leaf Warbler
+Толстоклювая пеночка  |  Phylloscopus schwarzi  |  Radde's Warbler
+Пеночка-трещотка  |  Phylloscopus sibilatrix  |  Wood Warbler
+Горная теньковка  |  Phylloscopus sindianus  |  Mountain Chiffchaff eastern chiffchaff
+Пеночка гималайская  |  Phylloscopus subviridis  |  Brooks's Leaf Warbler
+Бледноногая пеночка  |  Phylloscopus tenellipes  |  Pale-legged Leaf Warbler
+Зеленая пеночка  |  Phylloscopus trochiloides  |  Greenish Warbler
+Пеночка-весничка  |  Phylloscopus trochilus  |  Willow Warbler
+Скотоцерка  |  Scotocerca inquieta  |  Streaked Scrub Warbler
+Славка-завирушка горная  |  Sylvia althaea  |  Hume's Whitethroat
+Черноголовая славка  |  Sylvia atricapilla  |  Eurasian Blackcap
+Садовая славка  |  Sylvia borin  |  Garden Warbler
+Рыжегрудая славка  |  Sylvia cantillans  |  Subalpine Warbler
+Серая славка  |  Sylvia communis  |  Common Whitethroat
+Певчая славка  |  Sylvia crassirostris  |  Eastern Orphean Warbler
+Славка-завирушка  |  Sylvia curruca  |  Lesser Whitethroat
+Славка средиземноморская  |  Sylvia melanocephala  |  Sardinian Warbler
+Белоусая славка  |  Sylvia mystacea  |  Menetries's Warbler
+Пустынная славка  |  Sylvia nana  |  Desert Warbler
+Ястребиная славка  |  Sylvia nisoria  |  Barred Warbler
+Славка Рюппеля  |  Sylvia rueppelli  |  Rüppell's Warbler
+Малая пестрогрудка  |  Tribura davidi  |  Siberian Bush-warbler
+Длинноклювая пестрогрудка  |  Locustella major  |  Long-billed bush warbler
+Сибирская пестрогрудка  |  Tribura tacsanowskia  |  
+Короткохвостка  |  Urosphena squameiceps  |  Asian Stubtail
+Синичка расписная  |  Leptopoecile sophiae  |  White-browed Tit-warbler
+Рубиновоголовый королек  |  Regulus calendula  |  Ruby-crowned Kinglet
+Красноголовый королек  |  Regulus ignicapillus  |  Common Firecrest
+Желтоголовый королек  |  Regulus regulus  |  Goldcrest
+Волосохохлый дронго  |  Dicrurus hottentottus  |  Hair-crested drongo
+Дронго пепельный  |  Dicrurus leucophaeus  |  Ashy Drongo
+Черный дронго  |  Dicrurus macrocercus  |  Black Drongo
+Комароловка сероголовая  |  Culicicapa ceylonensis  |  Grey-headed Canary-flycatcher
+Синяя мухоловка  |  Cyanoptila cyanomelana  |  Blue-and-white Flycatcher
+Малая восточная мухоловка  |  Ficedula albicilla  |  Taiga Flycatcher
+Мухоловка-белошейка  |  Ficedula albicollis  |  Collared Flycatcher
+Мухоловка-пеструшка  |  Ficedula hypoleuca  |  European Pied Flycatcher
+Таежная мухоловка  |  Ficedula mugimaki  |  Mugimaki Flycatcher
+Японская желтоспинная мухоловка  |  Ficedula narcissina  |  Narcissus Flycatcher
+Малая мухоловка  |  Ficedula parva  |  Red-breasted Flycatcher
+Мухоловка полуошейниковая  |  Ficedula semitorquata  |  Semicollared Flycatcher
+Желтоспинная мухоловка  |  Ficedula zanthopygia  |  Yellow-rumped Flycatcher
+Ширококлювая мухоловка  |  Muscicapa dauurica  |  Asian Brown Flycatcher
+Пестрогрудая мухоловка  |  Muscicapa griseisticta  |  Grey-streaked Flycatcher
+Мухоловка рыжехвостая  |  Muscicapa ruficauda  |  Rusty-tailed Flycatcher
+Сибирская мухоловка  |  Muscicapa sibirica  |  Dark-sided Flycatcher
+Серая мухоловка  |  Muscicapa striata  |  Spotted Flycatcher
+Черная райская мухоловка  |  Terpsiphone atrocaudata  |  Japanese Paradise Flycatcher
+Райская мухоловка  |  Terpsiphone paradisi  |  Asian Paradise Flycatcher
+Дрозд-отшельник  |  Catharus guttatus  |  Hermit Thrush
+Малый дрозд  |  Catharus minimus  |  Grey-cheeked Thrush
+Свэнсонов дрозд  |  Catharus ustulatus  |  Swainson's Thrush
+Тугайный соловей  |  Cercotrichas galactotes  |  Rufous-tailed Scrub Robin
+Горихвостка водяная  |  Chaimarrornis leucocephalus  |  White-capped Redstart
+Белоножка  |  Enicurus scouleri  |  Little Forktail
+Зарянка  |  Erithacus rubecula  |  European Robin
+Соловей-белошейка  |  Irania gutturalis  |  White-throated Robin
+Изменчивый дрозд  |  Ixoreus naevius  |  Varied Thrush
+Японская зарянка  |  Luscinia akahige  |  Japanese Robin
+Соловей-красношейка  |  Luscinia calliope  |  Siberian Rubythroat
+Синий соловей  |  Luscinia cyane  |  Siberian Blue Robin
+Обыкновенный соловей  |  Luscinia luscinia  |  Thrush Nightingale
+Южный соловей  |  Luscinia megarhynchos  |  Common Nightingale
+Красношейка черногрудая  |  Luscinia pectoralis  |  White-tailed Rubythroat
+Соловей-свистун  |  Luscinia sibilans  |  Rufous-tailed Robin
+Варакушка  |  Luscinia svecica  |  Bluethroat
+Пестрый каменный дрозд  |  Monticola saxatilis  |  Common Rock Thrush
+Синий каменный дрозд  |  Monticola solitarius  |  Blue Rock Thrush
+Синяя птица  |  Myophonus caeruleus  |  Blue Whistling Thrush
+Каменка златогузая  |  Oenanthe chrysopygia  |  Red-tailed Wheatear
+Пустынная каменка  |  Oenanthe deserti  |  Desert Wheatear
+Каменка черношейная  |  Oenanthe finschii  |  Finsch's Wheatear
+Испанская каменка  |  Oenanthe hispanica  |  Black-eared Wheatear
+Каменка-плясунья  |  Oenanthe isabellina  |  Isabelline Wheatear
+Каменка белохвостая  |  Oenanthe leucura  |  Black Wheatear
+Каменка черноспинная  |  Oenanthe lugens  |  Mourning Wheatear
+Обыкновенная каменка  |  Oenanthe oenanthe  |  Northern Wheatear
+Каменка черная  |  Oenanthe picata  |  Variable Wheatear
+Каменка-плешанка  |  Oenanthe pleschanka  |  Pied Wheatear
+Каменка курдистанская  |  Oenanthe xanthoprymna  |  Kurdish Wheatear
+Белогорлый дрозд  |  Monticola gularis  |  
+Сибирская горихвостка  |  Phoenicurus auroreus  |  Daurian Redstart
+Седоголовая горихвостка  |  Phoenicurus caeruleocephalus  |  Blue-capped Redstart
+Краснобрюхая горихвостка  |  Phoenicurus erythrogaster  |  Güldenstädt's Redstart
+Красноспинная горихвостка  |  Phoenicurus erythronotus  |  Eversmann's Redstart
+Горихвостка-чернушка  |  Phoenicurus ochruros  |  Black Redstart
+Обыкновенная горихвостка  |  Phoenicurus phoenicurus  |  Common Redstart
+Горихвостка сизая  |  Rhyacornis fuliginosus  |  Plumbeous Water Redstart
+Чекан черный  |  Saxicola caprata  |  Pied Bush Chat
+Большой чекан  |  Saxicola insignis  |  White-throated Bush Chat
+Луговой чекан  |  Saxicola rubetra  |  Whinchat
+Черноголовый чекан  |  Saxicola torquata  |  African Stonechat
+Синехвостка  |  Tarsiger cyanurus  |  Red-flanked Bluetail
+Чернозобый дрозд  |  Turdus atrogularis  |  Black-throated Thrush
+Белобрюхий дрозд  |  Turdus cardis  |  Japanese Thrush
+Золотистый дрозд  |  Turdus chrysolaus  |  Brown-headed Thrush
+Бурый дрозд  |  Turdus eunomus  |  Dusky Thrush
+Сизый дрозд  |  Turdus hortulorum  |  Grey-backed Thrush
+Белобровик  |  Turdus iliacus  |  Redwing
+Черный дрозд  |  Turdus merula  |  Common Blackbird
+Дрозд странствующий  |  Turdus migratorius  |  American Robin
+Дрозд Науманна  |  Turdus naumanni  |  Naumann's Thrush
+Оливковый дрозд  |  Turdus obscurus  |  Eyebrowed Thrush
+Бледный дрозд  |  Turdus pallidus  |  Pale Thrush
+Певчий дрозд  |  Turdus philomelos  |  Song Thrush
+Рябинник  |  Turdus pilaris  |  Fieldfare
+Краснозобый дрозд  |  Turdus ruficollis  |  Dark-throated Thrush
+Белозобый дрозд  |  Turdus torquatus  |  Ring Ouzel
+Дрозд одноцветный  |  Turdus unicolor  |  Tickell's Thrush
+Деряба  |  Turdus viscivorus  |  Mistle Thrush
+Пестрый дрозд  |  Zoothera dauma  |  Scaly Thrush
+Сибирский дрозд  |  Zoothera sibirica  |  Siberian Thrush
+Тимелия полосатая  |  Garrulax lineatus  |  Streaked Laughingthrush
+Усатая синица  |  Panurus biarmicus  |  Bearded Reedling
+Тростниковая сутора  |  Paradoxornis polivanovi  |  Reed Parrotbill
+Сутора бурая  |  Paradoxornis webbianus  |  Vinous-throated Parrotbill
+Длиннохвостая синица  |  Aegithalos caudatus  |  Long-tailed
+Ремез китайский  |  Remiz consobrinus  |  Chinese Penduline
+Черноголовый ремез  |  Remiz coronatus  |  White-crowned Penduline
+Ремез тростниковый  |  Remiz macronyx  |  Black-headed Penduline
+Обыкновенный ремез  |  Remiz pendulinus  |  Eurasian Penduline
+Московка  |  Parus ater  |  Coal
+Синица бухарская  |  Parus bokharensis  |  Turkestan
+Обыкновенная лазоревка  |  Parus caeruleus  |  Blue
+Сероголовая гаичка  |  Parus cinctus  |  Grey-headed Chickadee
+Синица серая  |  Parus cinereus  |  Cinereous
+Хохлатая синица  |  Parus cristatus  |  European Crested
+Белая лазоревка  |  Parus cyanus  |  Azure
+Князек желтогрудый  |  Cyanistes flavipectus  |  Yellow-breasted
+Гаичка гирканская  |  Poecile hyrcanus  |  Caspian
+Гаичка средиземноморская  |  Parus lugubris  |  Sombre
+Большая синица  |  Parus major  |  Great
+Восточная синица  |  Parus minor  |  Japanese
+Буроголовая гаичка  |  Parus montanus  |  Willow
+Черноголовая гаичка  |  Parus palustris  |  Marsh
+Рыжешейная синица  |  Periparus rufonuchalis  |  Rufous-naped tit, black-breasted
+Джунгарская гаичка  |  Poecile montanus songarus  |  Songar
+Тиссовая синица  |  Parus varius  |  Varied
+Обыкновенный поползень  |  Sitta europaea  |  Eurasian Nuthatch
+Черноголовый поползень  |  Sitta krueperi  |  Krüper's Nuthatch
+Поползень малый скальный  |  Sitta neumayer  |  Western Rock Nuthatch
+Поползень большой скальный  |  Sitta tephronota  |  Eastern Rock Nuthatch
+Косматый поползень  |  Sitta villosa  |  Chinese Nuthatch
+Стенолаз  |  Tichodroma muraria  |  Wallcreeper
+Короткопалая пищуха  |  Certhia brachydactyla  |  Short-toed Treecreeper
+Обыкновенная пищуха  |  Certhia familiaris  |  Eurasian Treecreeper
+Пищуха гималайская  |  Certhia himalayana  |  Bar-tailed Treecreeper
+Палестинская нектарница  |  Cinnyris osea  |  Palestine Sunbird
+Буробокая белоглазка  |  Zosterops erythropleura  |  Chestnut-flanked White-eye
+Японская белоглазка  |  Zosterops japonica  |  Japanese White-eye
+Миртовый певун  |  Dendroica coronata  |  Yellow-rumped Warbler
+Речной певун  |  Seiurus noveboracensis  |  Northern Waterthrush
+Вильсония малая  |  Wilsonia pusilla  |  Wilson's Warbler
+Снежный воробей  |  Montifringilla nivalis  |  White-winged Snowfinch
+Воробей саксаульный  |  Passer ammodendri  |  Saxaul Sparrow
+Домовой воробей  |  Passer domesticus  |  House Sparrow
+Черногрудый воробей  |  Passer hispaniolensis  |  Spanish Sparrow
+Индийский воробей  |  Passer indicus  |  
+Полевой воробей  |  Passer montanus  |  Eurasian Tree Sparrow
+Рыжий воробей  |  Passer rutilans  |  Russet Sparrow
+Воробей пустынный  |  Passer zarudnyi  |  Desert Sparrow
+Каменный воробей  |  Petronia petronia  |  Rock Sparrow
+Монгольский земляной воробей  |  Pyrgilauda davidiana  |  Père David's Snowfinch
+Воробей афганский земляной  |  Pyrgilauda theresae  |  Afghan Snowfinch
+Ржавчатый трупиал  |  Euphagus carolinus  |  Rusty Blackbird
+Трупиал луговой западный  |  Sturnella neglecta  |  Western Meadowlark
+Коноплянка  |  Acanthis cannabina  |  
+Обыкновенная чечетка  |  Acanthis flammea  |  Common Redpoll
+Горная чечетка  |  Carduelis flavirostris  |  Twite
+Пепельная чечетка  |  Acanthis hornemanni  |  Arctic Redpoll
+Вьюрок толстоклювый пустынный  |  Bucanetes githagineus  |  Trumpeter Finch
+Монгольский снегирь  |  Bucanetes mongolicus  |  Mongolian Finch
+Седоголовый щегол  |  Carduelis caniceps  |  
+Черноголовый щегол  |  Carduelis carduelis  |  European Goldfinch
+Обыкновенная зеленушка  |  Carduelis chloris  |  European Greenfinch
+сосновый  |  Carduelis pinus  |  Pine Siskin
+Китайская зеленушка  |  Carduelis sinica  |  Grey-capped Greenfinch
+  |  Carduelis spinus  |  Eurasian Siskin
+Обыкновенная чечевица  |  Carpodacus erythrinus  |  Common Rosefinch
+Чечевица розовая  |  Carpodacus grandis  |  Blyth's Rosefinch
+Вьюрок красный  |  Carpodacus puniceus  |  Red-fronted Rosefinch
+Арчовая чечевица  |  Carpodacus rhodochlamys  |  Red-mantled Rosefinch
+Сибирская чечевица  |  Carpodacus roseus  |  Pallas's Rosefinch
+Большая чечевица  |  Carpodacus rubicilla  |  Caucasian Great Rosefinch
+Воробей короткопалый  |  Carpospiza brachydactyla  |  Pale Rockfinch
+Обыкновенный дубонос  |  Coccothraustes coccothraustes  |  Hawfinch
+Малый черноголовый дубонос  |  Eophona migratoria  |  Chinese Grosbeak
+Большой черноголовый дубонос  |  Eophona personata  |  Japanese Grosbeak
+Зяблик  |  Fringilla coelebs  |  Common Chaffinch
+Вьюрок  |  Fringilla montifringilla  |  Brambling
+Сибирский вьюрок  |  Leucosticte arctoa  |  Asian Rosy Finch
+Жемчужный вьюрок  |  Leucosticte brandti  |  Brandt's Mountain Finch
+Гималайский вьюрок  |  Leucosticte nemoricola  |  Plain Mountain Finch
+Американский вьюрок  |  Leucosticte tephrocotis  |  Gray-crowned Rosy Finch
+Клест-еловик  |  Loxia curvirostra  |  Crossbill
+Белокрылый клест  |  Loxia leucoptera  |  Two-barred Crossbill
+Клест-сосновик  |  Loxia pytyopsittacus  |  Parrot Crossbill
+Арчовый дубонос  |  Mycerobas carnipes  |  White-winged Grosbeak
+  |  Pinicola enucleator  |  Pine Grosbeak
+Серый снегирь  |  Pyrrhula cineracea  |  Baikal Bullfinch
+Уссурийский снегирь  |  Pyrrhula griseiventris  |  Eurasian Bullfinch
+Обыкновенный снегирь  |  Pyrrhula pyrrhula  |  Eurasian Bullfinch
+Краснокрылый чечевичник  |  Rhodopechys sanguinea  |  Eurasian Crimson-winged Finch
+Вьюрок буланый  |  Rhodospiza obsoleta  |  Desert Finch
+Корольковый вьюрок  |  Serinus pusillus  |  Red-fronted Serin
+Европейский вьюрок  |  Serinus serinus  |  European Serin
+Длиннохвостый снегирь  |  Uragus sibiricus  |  Long-tailed Rosefinch
+Саванная овсянка  |  Ammodramus sandwichensis  |  
+Подорожник  |  Calcarius lapponicus  |  Lapland Longspur
+Желтогорлая овсянка  |  Emberiza elegans  |  Yellow-throated bunting
+Овсянка скалистая  |  Emberiza buchanani  |  Grey-necked Bunting
+Овсянка красноклювая  |  Emberiza caesia  |  Cretzschmar's Bunting
+Горная овсянка  |  Emberiza  |  Rock Bunting
+Овсянка серая  |  Emberiza cineracea  |  Cinereous Bunting
+Красноухая овсянка  |  Emberiza cioides  |  Meadow Bunting
+Огородная овсянка  |  Emberiza cirlus  |  Cirl Bunting
+Обыкновенная овсянка  |  Emberiza citrinella  |  Yellowhammer
+Ошейниковая овсянка  |  Emberiza fucata  |  Chestnut-eared Bunting
+Овсянка Годлевского  |  Emberiza godlewskii  |  Godlewski's Bunting
+Садовая овсянка  |  Emberiza hortulana  |  Ortolan Bunting
+Овсянка Янковского  |  Emberiza jankowskii  |  Jankowski's Bunting
+Белошапочная овсянка  |  Emberiza leucocephala  |  
+Овсянка Стюарта  |  Emberiza stewarti  |  White-capped Bunting
+Желчная овсянка  |  Emberiza bruniceps  |  
+Черноголовая овсянка  |  Emberiza melanocephala  |  
+Серый юнко  |  Junco hyemalis  |  Dark-eyed Junco
+Юнко орегонский  |  Junco oreganus  |  Dark-eyed Junco
+Зонотрихия болотная  |  Melospiza georgiana  |  Swamp Sparrow
+Овсянка певчая  |  Melospiza melodia  |  Song Sparrow
+Просянка  |  Miliaria calandra  |  Corn Bunting
+Дубровник  |  Emberiza aureola  |  
+Желтобровая овсянка  |  Emberiza chrysophrys  |  
+Седоголовая овсянка  |  Emberiza sulphurata  |  Yellow bunting
+Овсянка-крошка  |  Emberiza pusilla  |  
+Овсянка-ремез  |  Emberiza rustica  |  
+Рыжая овсянка  |  Emberiza rutila  |  
+Седоголовая овсянка  |  Emberiza spodocephala  |  
+Японская овсянка  |  Emberiza sulphurata  |  yellow bunting Japanese yellow buntin
+Таежная овсянка  |  Emberiza tristrami  |  Tristram's Bunting
+Сизая овсянка  |  Emberiza variabilis  |  Grey bunting
+Пестрогрудая овсянка  |  Passerella iliaca  |  Sparrow
+Пуночка белая  |  Plectrophenax hyperboreus  |  McKay's Bunting
+Пуночка  |  Plectrophenax nivalis  |  Snow Bunting
+Овсянка монгольская  |  Emberiza lydiae  |  
+Полярная овсянка  |  Schoeniclus pallasi  |  
+Тростниковая овсянка  |  Schoeniclus schoeniclus  |  
+Рыжешейная овсянка  |  Schoeniclus yessoensis  |  
+Воробьиная овсянка  |  Spizella arborea  |  American Tree Sparrow
+Обыкновенная воробьиная овсянка  |  Spizella passerina  |  Chipping Sparrow
+Чернобровая овсянка  |  Zonotrichia atricapilla  |  Golden-crowned Sparrow
+Белобровая овсянка  |  Zonotrichia leucophrys  |  White-crowned Sparrow
+Тёмная сутора  |  Paradoxornis zappeyi  |  
+Жулан индийский  |  Lanius vittatus  |  Bay-backed Shrike
+Сутора Пржевальского  |  Paradoxornis przewalskii  |  Rusty-throated Parrotbill
